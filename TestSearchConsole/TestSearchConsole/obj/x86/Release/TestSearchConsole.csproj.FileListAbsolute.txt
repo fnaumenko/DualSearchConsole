@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2010\Projects\TestSearchConsole\TestSearchConsole\bin\Release\TestSearchConsole.exe
+D:\Documents\Visual Studio 2010\Projects\TestSearchConsole\TestSearchConsole\bin\Release\TestSearchConsole.pdb
+D:\Documents\Visual Studio 2010\Projects\TestSearchConsole\TestSearchConsole\obj\x86\Release\TestSearchConsole.exe
+D:\Documents\Visual Studio 2010\Projects\TestSearchConsole\TestSearchConsole\obj\x86\Release\TestSearchConsole.pdb
+D:\Documents\Visual Studio 2010\Projects\TestSearchConsole\TestSearchConsole\obj\x86\Release\TestSearchConsole.csprojResolveAssemblyReference.cache

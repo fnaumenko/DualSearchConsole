@@ -1,0 +1,4 @@
+D:\Documents\Visual Studio 2010\Projects\TestSearchConsole\TestSearchConsole\bin\Debug\TestSearchConsole.exe
+D:\Documents\Visual Studio 2010\Projects\TestSearchConsole\TestSearchConsole\bin\Debug\TestSearchConsole.pdb
+D:\Documents\Visual Studio 2010\Projects\TestSearchConsole\TestSearchConsole\obj\x86\Debug\TestSearchConsole.exe
+D:\Documents\Visual Studio 2010\Projects\TestSearchConsole\TestSearchConsole\obj\x86\Debug\TestSearchConsole.pdb
